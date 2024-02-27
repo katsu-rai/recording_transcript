@@ -10,6 +10,8 @@ import java.net.URL;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        User user = new User("Rai");
+        System.out.println(user);
 
     }
 }
